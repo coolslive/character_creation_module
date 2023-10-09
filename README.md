@@ -1,19 +1,19 @@
-# Catalog of articles categorized by groups
-Console RPG "Pythonic Warriors: The Dark Side of the Code"
+# "Pythonic Warriors: Темная сторона кода"
 
-### Includes applications
+## Описание:
 
- - сharacter Selection
- - training skills
- - striking
+- Консольная RPG с возможностями развития персонажа.
+- Доступен выбор персонажажа.
 
-## Technology:
+
+## Технологии:
 
 Python
 
-## Installation
 
-Creating and activating a virtual environment:
+## Установка:
+
+Создание и активация виртуальной среды:
 
 ```
 python3 -m venv venv
@@ -26,3 +26,6 @@ source venv/Scripts/activate
 ```
 python3 -m pip install --upgrade pip
 ```
+
+## Автор:
+Вячеслав Эрлих
